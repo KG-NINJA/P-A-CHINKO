@@ -1,9 +1,4 @@
-# Anime Pachinko
-
-GitHub Pages向けの公開フォルダです。
-
-## 公開
-
+# P-a-chinko
 1. `github-pages` フォルダ内のファイルをGitHubリポジトリのルートへ配置
 2. GitHubの `Settings > Pages` を開く
 3. `Deploy from a branch` を選択
