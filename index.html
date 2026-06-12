@@ -700,7 +700,7 @@
       chargeFill.style.width="0%";
       message.textContent="GAME OVER";
       finalScore.innerHTML=`SCORE ${String(score).padStart(4,"0")}<br>BALLS ${balls}`;
-      const post=`I scored ${score} points with ${balls} balls remaining in Anime Pachinko! #AnimePachinko #BrowserGame`;
+      const post=`PA_CHINKO\nI scored ${score} points with ${balls} balls remaining!\nhttps://kg-ninja.github.io/P-A-CHINKO/\n#PA_CHINKO #BrowserGame`;
       shareButton.href=`https://twitter.com/intent/tweet?text=${encodeURIComponent(post)}`;
       resultPanel.classList.add("show");
     }
